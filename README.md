@@ -1,10 +1,11 @@
-# cs_everyday
-Basic Computer Science Knowledage in Daily Life
+# CS Everyday
 
+Basic Computer Science Knowledage in Daily Life
 
 ## Know You Computer
 
-- [Know Your Computer](slides/Know-Your-Computer.pdf)
+- [PDF](slides/Know-Your-Computer.pdf)
+- [PPTX](slides/Know-Your-Computer.pptx)
 
 ## Contact Information
 
