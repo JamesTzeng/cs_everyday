@@ -2,7 +2,7 @@
 
 Basic Computer Science Knowledage in Daily Life
 
-## Know You Computer
+## Know Your Computer
 
 - [PDF](slides/Know-Your-Computer.pdf)
 - [PPTX](slides/Know-Your-Computer.pptx)
