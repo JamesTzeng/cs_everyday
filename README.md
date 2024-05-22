@@ -13,6 +13,7 @@ If you have any questions, please feel free to contact me.
 
 - [PDF](slides/Know-Your-Computer.pdf)
 - [PPTX](slides/Know-Your-Computer.pptx)
+- [Web](https://gamma.app/docs/Basic-Computer-Science-Knowledge-in-Daily-Life-9q16yqtnekv3z85)
 
 ## Introduction to Chatgpt
 
